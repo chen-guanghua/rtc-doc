@@ -1,12 +1,12 @@
 # RTC文档
 realtime communication document
 
-# RTC通信基础
+## RTC通信基础
 * stun
 * turn
 * dtls
 
-# RTP/RTCP处理
+## RTP/RTCP处理
 * RTP包
 * RTCP包
 * RTCP生成
@@ -17,10 +17,10 @@ realtime communication document
 * FrameBuffer算法
 * NetEq
 
-# 音频处理模块
-# 视频处理模块
-# 音频采集
-# 视频采集
-# webrtc-1.0接口说明
+## 音频处理模块
+## 视频处理模块
+## 音频采集
+## 视频采集
+## webrtc-1.0接口说明
 
 
